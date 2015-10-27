@@ -1,0 +1,22 @@
+{
+  "name": "halyard-steam",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "summary": "Install Steam via brewcask",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-steam",
+  "project_page": "https://github.com/halyard/puppet-steam",
+  "issues_url": "https://github.com/halyard/puppet-steam/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
