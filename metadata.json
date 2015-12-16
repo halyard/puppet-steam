@@ -8,7 +8,10 @@
   "project_page": "https://github.com/halyard/puppet-steam",
   "issues_url": "https://github.com/halyard/puppet-steam/issues",
   "dependencies": [
-
+    {
+      "name": "halyard/brewcask",
+      "version_requirement": "0.1.x"
+    }
   ],
   "operatingsystem_support": [
     {
